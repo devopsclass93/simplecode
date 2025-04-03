@@ -13,3 +13,5 @@ echo "$name lost the elections"
 echo "He became president via fraud"
 fi
 
+
+DEVOPS
